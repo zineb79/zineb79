@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zineb79&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true" alt="zineb79" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,python,django,postgres,kafka,docker,git,github&perline=6" alt="Ma stack" />
 </p>
 
 ---
