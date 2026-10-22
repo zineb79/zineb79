@@ -12,6 +12,10 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,python,django,postgres,kafka,docker,git,github&perline=6" alt="Ma stack" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zineb79/zineb79/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zineb79/zineb79/output/snake.svg" alt="Serpent des contributions" />
+</picture>
 ---
 
 ### 🌐 Connect with me  
